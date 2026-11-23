@@ -1,0 +1,14 @@
+[
+  {"id_solicitud": "S01", "id_empleado": "E001", "fecha_recepcion": "2026-11-02", "canal": "correo", "texto": "Hola, quiero solicitar vacaciones del 14 al 18 de diciembre de 2026. Gracias.", "etiqueta_esperada": "VACACIONES"},
+  {"id_solicitud": "S02", "id_empleado": "E002", "fecha_recepcion": "2026-11-02", "canal": "formulario", "texto": "Necesito un certificado laboral con salario para un trámite en el banco.", "etiqueta_esperada": "CERTIFICADO_LABORAL"},
+  {"id_solicitud": "S03", "id_empleado": "E006", "fecha_recepcion": "2026-11-03", "canal": "correo", "texto": "Buenas, adjunto incapacidad médica por 3 días desde el 3 de noviembre. Mi cédula es 1067890123.", "etiqueta_esperada": "INCAPACIDAD"},
+  {"id_solicitud": "S04", "id_empleado": "E004", "fecha_recepcion": "2026-11-03", "canal": "chat", "texto": "Me cambié de casa, por favor actualicen mi dirección y mi celular 3001234567.", "etiqueta_esperada": "ACTUALIZACION_DATOS"},
+  {"id_solicitud": "S05", "id_empleado": "E005", "fecha_recepcion": "2026-11-04", "canal": "correo", "texto": "Solicito vacaciones del 7 al 11 de diciembre de 2026.", "etiqueta_esperada": "VACACIONES"},
+  {"id_solicitud": "S06", "id_empleado": "E008", "fecha_recepcion": "2026-11-04", "canal": "formulario", "texto": "Quiero tomar vacaciones del 21 al 31 de diciembre de 2026, ¿es posible?", "etiqueta_esperada": "VACACIONES"},
+  {"id_solicitud": "S07", "id_empleado": "E007", "fecha_recepcion": "2026-11-05", "canal": "chat", "texto": "¿Me pueden enviar la constancia de que trabajo aquí? La piden en la universidad.", "etiqueta_esperada": "CERTIFICADO_LABORAL"},
+  {"id_solicitud": "S08", "id_empleado": "E003", "fecha_recepcion": "2026-11-05", "canal": "correo", "texto": "¿A qué hora es la reunión de bienestar del viernes?", "etiqueta_esperada": "OTRO"},
+  {"id_solicitud": "S09", "id_empleado": "E006", "fecha_recepcion": "2026-11-06", "canal": "correo", "texto": "Pido unos días libres en diciembre para viajar, todavía no tengo las fechas exactas.", "etiqueta_esperada": "VACACIONES"},
+  {"id_solicitud": "S10", "id_empleado": "E009", "fecha_recepcion": "2026-11-06", "canal": "formulario", "texto": "Solicito certificado laboral para trámite de visa.", "etiqueta_esperada": "CERTIFICADO_LABORAL"},
+  {"id_solicitud": "S11", "id_empleado": "E002", "fecha_recepcion": "2026-11-07", "canal": "chat", "texto": "Mi correo personal cambió a andres.p@correo-ficticio.com, actualícenlo por favor.", "etiqueta_esperada": "ACTUALIZACION_DATOS"},
+  {"id_solicitud": "S12", "id_empleado": "E001", "fecha_recepcion": "2026-11-07", "canal": "correo", "texto": "Estuve enferma ayer y hoy, el médico me dio 2 días de incapacidad.", "etiqueta_esperada": "INCAPACIDAD"}
+]

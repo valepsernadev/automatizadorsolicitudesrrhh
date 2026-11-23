@@ -1,0 +1,10 @@
+id_empleado,nombre,correo,area,cargo,fecha_ingreso,dias_vacaciones_disponibles,documento
+E001,Laura Gómez,laura.gomez@ejemplo.com,Tecnología,Analista de datos,2021-03-15,12,1012345678
+E002,Andrés Pérez,ANDRES.PEREZ@ejemplo.com ,Comercial,Ejecutivo de cuenta,2019-07-01,20,1023456789
+E003,María Torres,maria.torres@ejemplo.com,Talento Humano,Generalista de RRHH,2022-11-20,8,1034567890
+E004,Julián Rojas,julian.rojas@ejemplo.com,,Desarrollador,2023-05-08,5,1045678901
+E005,Sofía Herrera,sofia.herrera@ejemplo.com,Finanzas,Contadora,2018-02-12,15,1056789012
+E006,Camilo Díaz,camilo.diaz@ejemplo.com,Operaciones,Coordinador logístico,2020-09-30,3,1067890123
+E007,Valentina Ruiz,valentina.ruiz@ejemplo.com,Comercial,Asesora comercial,2024-01-15,10,1078901234
+E008,Felipe Castro,felipe.castro@ejemplo.com,Tecnología,Soporte TI,2021-08-23,0,1089012345
+E003,María Torres,maria.torres@ejemplo.com,Talento Humano,Generalista de RRHH,2022-11-20,8,1034567890
