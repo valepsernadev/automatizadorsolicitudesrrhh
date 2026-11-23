@@ -1,0 +1,4 @@
+tabla,registro,campo,valor_original,valor_nuevo,regla
+empleados,E002,correo,ANDRES.PEREZ@ejemplo.com ,andres.perez@ejemplo.com,Correo normalizado: sin espacios y en minúsculas
+empleados,E004,area,,SIN_AREA,Área vacía: se marca SIN_AREA y no se borra la fila
+empleados,E003,,,,Duplicado exacto: se conserva una sola fila
